@@ -23,7 +23,7 @@ body {
     color: var(--text-color);
     background-color: var(--background-color);
     margin: 0;
-    padding: 0;
+    padding: -0;
     padding-top: 20px;
     position: relative;
 }
